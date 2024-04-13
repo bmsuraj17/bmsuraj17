@@ -4,9 +4,13 @@ Welcome to my GitHub playground! 🚀 I'm Suraj Balraj, a doctor turned data ana
 About Me
 📊 I'm passionate about turning data into actionable insights using Python, SQL, Power BI, and MS Excel. I love diving into datasets to uncover trends and patterns that drive decision-making.
 
-💪 Outside of work, I'm a gymrat, always looking to stay active and healthy. I'm also a cinephile, enjoying movies that inspire and entertain.
+💬 When I'm not analyzing data, you can find me exploring new technologies, attending workshops to enhance my skills and stay updated with the latest trends in data analysis.
 
-🌍 I've also worked on various personal projects, including predicting employee attrition, analyzing Netflix's content trends, and providing insights for the food industry using Zomato's dataset.
+🎬 As a cinephile, I enjoy watching movies and analyzing their narratives, cinematography, and themes.
+
+🏋️‍♂️ I'm also a gymrat, dedicated to fitness and a healthy lifestyle.
+
+🌍 I'm also looking to use my tech and medical knowledge to bring a positive change in the world, especially in healthcare.
 
 Let's Connect
 💬 Interested in collaborating on a project or discussing data analysis? Feel free to reach out and connect with me. I'm always looking for new challenges and opportunities to learn and grow in the field of data analysis.
