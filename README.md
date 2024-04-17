@@ -10,7 +10,7 @@ About Me
 
 🏋️‍♂️ I'm also a gymrat, dedicated to fitness and a healthy lifestyle.
 
-🌍 I'm also looking to use my tech and medical knowledge to bring a positive change in the world, especially in healthcare.
+🌍 I'm looking to use my tech and medical knowledge to bring a positive change in the world, especially in healthcare.
 
 Let's Connect
 💬 Interested in collaborating on a project or discussing data analysis? Feel free to reach out and connect with me. I'm always looking for new challenges and opportunities to learn and grow in the field of data analysis.
